@@ -13,6 +13,6 @@
     "tests"
   ],
   "dependencies": {
-    "guara": "~1.0.0"
+    "guara": "master"
   }
 }
